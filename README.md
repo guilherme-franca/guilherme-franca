@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sobre
+
+Sou desenvolvedor PHP com mais de oito anos de experiência focado em soluções web utilizando CodeIgniter, Laravel e WordPress/WooCommerce.  Tenho conhecimentos sólidos em JavaScript, APIs RESTful, MySQL, Git e Docker, Node.js e React.Js.
 
 <!--
 **guilherme-franca/guilherme-franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
